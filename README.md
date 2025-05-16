@@ -1,7 +1,6 @@
 # Aplikacja: Genetyczne Ryzyko Chorób u Psów
 
-Aplikacja służy do analizy i wizualizacji prawdopodobieństwa wystąpienia chorób genetycznych u psów na podstawie rasy i typu choroby.
-
+Ta aplikacja to interaktywny program stworzony w języku Python, który umożliwia użytkownikowi ocenę prawdopodobieństwa wystąpienia chorób genetycznych u psów w zależności od rasy i typu choroby na podstawie pobranych danych z excela. Bazuje na rzeczywistych danych statystycznych opracowanych z publikacji naukowych. Umożliwia w wygodny sposób wybranie z list rozwijalnych rasy psa i typu chorob. Następnie wyświetla listę chorób i ich prawdopodobieństwo wystąpienia w formie **tekstowej** oraz **graficznej** - w formie czytelnego wykresu słupkowego poziomego (choroba, ryzyko). 
 
 ## Funkcje aplikacji
 
